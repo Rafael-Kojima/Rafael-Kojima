@@ -25,4 +25,6 @@
   <img style="text-align: center;"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Kojima&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Kojima&layout=compact)
+
+
